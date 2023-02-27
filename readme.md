@@ -9,5 +9,4 @@
 
 # IMAGES
 
-[InternetShortcut]
-URL=https://cdn.discordapp.com/attachments/1079834232253321266/1079836633823715478/image.png
+![image](https://user-images.githubusercontent.com/98545753/221654875-b39f28f6-49a1-4996-bf9a-8e51b0d4e99e.png)
