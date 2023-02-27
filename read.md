@@ -1,8 +1,8 @@
 # BOT FEATURES
 
-`[+]` DMALL only Online users
-`[+]` You can delete messages whenever you want to delete
-`[+]` Support any components [Modals, select menu, buttons, button link]
+`[+]` DMALL only Online users 
+`[+]` You can delete messages whenever you want to delete 
+`[+]` Support any components [Modals, select menu, buttons, button link] 
 
 # IMAGES
 
